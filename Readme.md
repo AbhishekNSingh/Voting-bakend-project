@@ -15,6 +15,7 @@ This is a backend application for a voting system where users can vote for candi
 - Express.js
 - MongoDB
 - JSON Web Tokens (JWT) for authentication
+- bcrypt
 
 ## Installation
 
